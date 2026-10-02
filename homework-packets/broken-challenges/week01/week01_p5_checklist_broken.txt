@@ -1,0 +1,5 @@
+- Open terminal
+- Run python3 filename.py
+- Navigate to folder
+- Fix errors and rerun
+- Read output
