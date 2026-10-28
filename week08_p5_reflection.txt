@@ -1,0 +1,8 @@
+I learned how to read a traceback by reading it carefully and then looking at what it tells me is wrong. 
+The traceback normally gives you a short message on exactly what to fix in the last line. 
+The line above normally shows where the error is.
+The rest of the traceback doesn't really matter so don't freak out when you get back an error.
+I also learned I have to look over for simple mistakes because I've definitely made a Nameerror before.
+For mixing words and numbers make sure you add the int() function so it clarifies it's a number not a string.
+When you have a list make sure to remember python starts counting at zero.
+When typing numbers use numeric value not non-numeric (word form).

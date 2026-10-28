@@ -1,0 +1,6 @@
+Bug 1: Nameerror because the variable was mistyped
+Fix 1: make sure your variables are the same
+Bug 2: Typeerror because they are strings not intergers
+Fix 2: make sure they are numbers first by putting the int() function
+Bug 3: Indexerror because the list value you asked for does not exist
+Fix 3: don't forget python starts counting at 0
